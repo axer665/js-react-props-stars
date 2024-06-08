@@ -1,0 +1,8 @@
+.card-body-stars {
+  list-style: none;
+}
+
+.card-body-stars-item {
+  display: inline;
+  margin-inline: -4px;
+}
